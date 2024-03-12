@@ -1,0 +1,30 @@
+{
+  "name": "com.[organization-name].[package-name]",
+  "version": "1.0.0",
+  "displayName": "Display Name",
+  "description": "Description",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "licensesUrl": "License url",
+  "documentationUrl": "Documentation url",
+  "dependencies": {
+ },
+ "keywords": [
+    "key1",
+    "key2",
+    "key3",
+    "key4"
+  ],
+ "samples": [
+    {
+        "displayName": "Samples",
+        "description": "This demo included with an example scene.",
+        "path": "Samples~"
+    }
+ ],
+  "author": {
+    "name": "Furkan Baldır",
+    "email": "furkanbaldir13@gmail.com",
+    "url": "https://github.com/supremepanda"
+  }
+}
