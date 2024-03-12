@@ -1,0 +1,29 @@
+{
+  "name": "com.supremepanda.object_pool_manager",
+  "version": "1.0.0",
+  "displayName": "Object Pool Manager",
+  "description": "Simple object pool manager to instantiate objects memory effective",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "licensesUrl": "License url",
+  "documentationUrl": "Documentation url",
+  "dependencies": {
+ },
+ "keywords": [
+    "object-pooling",
+    "memory",
+    "pooling"
+  ],
+ "samples": [
+    {
+        "displayName": "Samples",
+        "description": "This demo included with an example scene.",
+        "path": "Samples~"
+    }
+ ],
+  "author": {
+    "name": "Furkan Baldır",
+    "email": "furkanbaldirdev@gmail.com",
+    "url": "https://github.com/supremepanda"
+  }
+}
