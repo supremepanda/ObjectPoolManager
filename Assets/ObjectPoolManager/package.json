@@ -8,6 +8,7 @@
   "licensesUrl": "License url",
   "documentationUrl": "Documentation url",
   "dependencies": {
+    "com.mathijsbakker.extenject": "9.2.0"
  },
  "keywords": [
     "object-pooling",
